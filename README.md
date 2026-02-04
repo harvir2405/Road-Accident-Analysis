@@ -22,7 +22,7 @@ Urban areas see more collisions, while rural roads are far more dangerous when c
 Data:  
 This project uses the UK Department for Transport STATS19 Road Safety Dataset  
 In particular the collisions dataset for the past 5 years (2024-2019)  
-Due to file size limits, raw data files are not included in this repository.  
+Due to file size limits, data is tracked using Git LFS 
 Data source:  
 https://www.gov.uk/government/statistics/road-safety-data  
 
