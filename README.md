@@ -6,6 +6,7 @@ Contents:
 Project Proposal – problem definition, objectives, and planned approach  
 Final Presentation (PDF) – key findings, visualisations, and modelling results  
 Streamlit App (app.py) – interactive dashboard for exploring collision patterns  
+    https://uk-road-accident-analysis.streamlit.app/
 
 Key Focus Areas:  
 Temporal trends and seasonality  
